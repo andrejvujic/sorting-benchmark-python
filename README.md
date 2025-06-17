@@ -42,4 +42,4 @@ I did a small benchmark on the performance of my hand-written <code>merge_sort</
     <td>4 m 35 s</td>
     <td>∞</td>
 </tr>
-</table># sorting-benchmark-python
+</table>
